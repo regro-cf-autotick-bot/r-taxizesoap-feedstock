@@ -43,7 +43,7 @@ test:
     - "\"%R%\" -e \"library('taxizesoap')\""  # [win]
 
 about:
-  home: https
+  home: https://github.com/ropensci/taxizesoap/
   license: MIT
   license_file: LICENSE
   summary: taxize but for SOAP data sources
