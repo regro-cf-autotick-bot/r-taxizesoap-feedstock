@@ -1,7 +1,7 @@
 About r-taxizesoap
 ==================
 
-Home: https
+Home: https://github.com/ropensci/taxizesoap/
 
 Package license: MIT
 
